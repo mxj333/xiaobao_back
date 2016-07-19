@@ -1,0 +1,8 @@
+﻿35 道单选
+55 道多选
+10 道判断
+
+DROP DATABASE IF EXISTS `catalogs`;
+DROP DATABASE `xiaobao`;
+CREATE DATABASE `xiaobao`;
+

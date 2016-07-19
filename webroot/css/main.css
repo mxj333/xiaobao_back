@@ -1,0 +1,25 @@
+body {
+  min-height: 600px;
+  padding-top: 50px;
+}
+.container {
+	min-height: 800px;
+}
+.modal {
+	padding-top:175px; 
+}
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 15px 10px;
+    font-size: 18px;
+    line-height: 20px;
+}
+.radio label, .checkbox label {
+    width: 100%;
+}
+.radio input[type="radio"], .radio-inline input[type="radio"], .checkbox input[type="checkbox"], .checkbox-inline input[type="checkbox"] {
+    position: absolute;
+    margin-top: 4px \9;
+    margin-left: -15px;
+}
